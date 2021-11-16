@@ -47,3 +47,4 @@ The resulsts were:
 
 ## Election Audit Summary
 
+This election audit uses script that can, with some maniuplation, be used for any election. For example, we cane use the current dictionaries to store the value of any county result from any state. All that is needed is to add entries to the dictionary. Another thing that we can do is create a state dictionary that stores all the values of the county results to include all of the counties data for a particular state election. 
