@@ -11,6 +11,7 @@ A Colorado Board of Elections employee has given me the following task to comple
 
 ## Election Audit Results
 The analysis of the summary shows that:
+
 -There were 369,711 votes cast
 
 <img width="211" alt="Screen Shot 2021-11-15 at 11 36 55 PM" src="https://user-images.githubusercontent.com/92888170/141941398-6ace2984-d148-4116-b7b8-4d66d31e7971.png">
@@ -43,4 +44,6 @@ The resulsts were:
  The winner of the election was:
  
   - Diana DeGette who recieved 73.8% of the votes and 272,892 votes
+
+## Election Audit Summary
 
